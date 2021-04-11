@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: suarez.netlify.app
+Token: 2e9d77760c8496a1ed50eba5f3aa638d673dd0c7298206f6a2f8744bb6ed75ff
